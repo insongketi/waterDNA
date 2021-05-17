@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f652c21-31f2-469b-9c6c-fd97c8f09d6f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/functions/placeBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/placeBuilder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/sendRequest.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/sendRequest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-    </list>
+    <list default="true" id="3f652c21-31f2-469b-9c6c-fd97c8f09d6f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621216012520</updated>
-      <workItem from="1621216013579" duration="561000" />
+      <workItem from="1621216013579" duration="1106000" />
     </task>
     <servers />
   </component>
@@ -52,9 +48,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="987" y="432" width="587" height="536" key="find.popup" timestamp="1621216427350">
+    <state x="987" y="432" width="587" height="536" key="find.popup" timestamp="1621217117411">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="987" y="432" width="587" height="536" key="find.popup/0.0.2560.1400/-2160.-806.1440.2520@0.0.2560.1400" timestamp="1621216427350" />
+    <state x="987" y="432" width="587" height="536" key="find.popup/0.0.2560.1400/-2160.-806.1440.2520@0.0.2560.1400" timestamp="1621217117411" />
   </component>
 </project>

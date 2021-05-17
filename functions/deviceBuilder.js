@@ -135,6 +135,7 @@ exports.waterProcess = function(i, currentTime) {
         }
         waterProcess.entities[j] = waterProcessTemp;
     }
+    console.log(JSON.stringify(waterProcess));
     sendCreateRequest(waterProcess);
 }
 exports.waterLevelMeter = function(i, currentTime) {
