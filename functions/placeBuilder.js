@@ -335,6 +335,7 @@ exports.waterPipePredicted = function(currentTime) {
 function sendCreateRequest(body) {
     let createRequest = {
         method: 'POST',
+        timeout: 10000,
         url: 'http://' + conf.server_ip + ':' + conf.server_port + '/' + conf.server_path,
         //url: 'http://localhost:7001',
         'Content-Type': 'application/json',
